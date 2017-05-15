@@ -1,4 +1,3 @@
 // Copyright (c) Thomas Steinfeld. All rights reserved.
 // This file is licensed under the Apache License, Version 2.0 
 // See the license.txt file in the project root for more information.
-
